@@ -4,3 +4,4 @@ We proposed a Continuous Integrate-and-Fire (CIF)-based speech segmentation meth
 
 
 Please click [Github page](https://susanna1999.github.io/) to check the demo page.
+------
